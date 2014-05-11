@@ -19,7 +19,7 @@ It will download the 20MB data file, if not already present,  and load the data 
 days 1st Feb 2007 and 2nd Feb 2007.
 It should not be necessary to run this script directly as it is sourced into each of the plot scripts.
 
-In addition the original README file is a available as README-orig.md, containing the 
+In addition the original README file is a available as [README-orig.md](README-orig.md), containing the 
 requirements of the assignment and the description of the data.
 
 ### Sample Results
@@ -31,20 +31,20 @@ The four plots that I have constructed are shown below
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](results/plot1.png)
+![plot-2](result/plot1.png)
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](results/plot2.png)
+![plot-3](result/plot2.png)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](results/plot3.png)
+![plot-4](result/plot3.png)
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](results/plot4.png)
+![plot-5](result/plot4.png)
 
