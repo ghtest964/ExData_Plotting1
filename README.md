@@ -10,6 +10,7 @@ It consists of 5 R scripts
 * plot2.R
 * plot3.R
 * plot4.R
+
 Each of the plot scripts will source in the load_household_power_consumption.R and then construct
 a png file as per the requirements of the assignment.
 
